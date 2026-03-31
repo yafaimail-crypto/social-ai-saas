@@ -1,1 +1,3 @@
-# social-ai-saas
+# Welcome to your Lovable project
+
+TODO: Document your project here
